@@ -1,0 +1,2 @@
+*/3 * * * *  /usr/local/bin/node /src/mqttInTemp.js  >> /var/log/mqtt.log 2>&1
+# empty line 
